@@ -11,57 +11,57 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Sliding Window
 
-- [ ] https://leetcode.com/problems/maximum-subarray/  (Blind)
-- [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
-- [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-- [ ] https://leetcode.com/problems/fruit-into-baskets/
-- [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
-- [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
-- [ ] https://leetcode.com/problems/permutation-in-string/
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
-- [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
+- [X] https://leetcode.com/problems/maximum-subarray/  (Blind)
+- [X] https://leetcode.com/problems/minimum-size-subarray-sum/
+- [X] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+- [X] https://leetcode.com/problems/fruit-into-baskets/
+- [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
+- [X] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
+- [X] https://leetcode.com/problems/max-consecutive-ones-iii/
+- [X] https://leetcode.com/problems/permutation-in-string/
+- [X] https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- [X] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Two Pointers
 
 - [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] https://leetcode.com/problems/3sum/ (Blind)
-- [ ] https://leetcode.com/problems/3sum-closest/
-- [ ] https://leetcode.com/problems/3sum-smaller/
-- [ ] https://leetcode.com/problems/subarray-product-less-than-k/
-- [ ] https://leetcode.com/problems/sort-colors/
-- [ ] https://leetcode.com/problems/4sum/
-- [ ] https://leetcode.com/problems/backspace-string-compare/
-- [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+- [X] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [X] https://leetcode.com/problems/squares-of-a-sorted-array/
+- [X] https://leetcode.com/problems/3sum/ (Blind)
+- [X] https://leetcode.com/problems/3sum-closest/
+- [X] https://leetcode.com/problems/3sum-smaller/
+- [X] https://leetcode.com/problems/subarray-product-less-than-k/
+- [X] https://leetcode.com/problems/sort-colors/
+- [X] https://leetcode.com/problems/4sum/
+- [X] https://leetcode.com/problems/backspace-string-compare/
+- [X] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
-- [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
-- [ ] https://leetcode.com/problems/happy-number/
-- [ ] https://leetcode.com/problems/middle-of-the-linked-list/
-- [ ] https://leetcode.com/problems/palindrome-linked-list/
-- [ ] https://leetcode.com/problems/reorder-list/ (Blind)
+- [X] https://leetcode.com/problems/linked-list-cycle/ (Blind)
+- [X] https://leetcode.com/problems/linked-list-cycle-ii/
+- [X] https://leetcode.com/problems/happy-number/
+- [X] https://leetcode.com/problems/middle-of-the-linked-list/
+- [X] https://leetcode.com/problems/palindrome-linked-list/
+- [X] https://leetcode.com/problems/reorder-list/ (Blind)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
-- [ ] https://leetcode.com/problems/insert-interval/ (Blind)
-- [ ] https://leetcode.com/problems/interval-list-intersections/
+- [X] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [X] https://leetcode.com/problems/insert-interval/ (Blind)
+- [X] https://leetcode.com/problems/interval-list-intersections/
 - Can't find conflicting appointment
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
+- [X] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
 - [ ] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
-- [ ] https://leetcode.com/problems/employee-free-time/
+- [X] https://leetcode.com/problems/employee-free-time/
 
 ## Pattern: Cyclic Sort
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
-- [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- [X] https://leetcode.com/problems/missing-number/ (Blind)
+- [X] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - [ ] https://leetcode.com/problems/find-the-duplicate-number/
-- [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- [X] https://leetcode.com/problems/find-all-duplicates-in-an-array/
 - [ ] https://leetcode.com/problems/set-mismatch/
 - [ ] https://leetcode.com/problems/first-missing-positive/
 - [ ] https://leetcode.com/problems/kth-missing-positive-number/
