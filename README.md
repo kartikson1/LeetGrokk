@@ -60,7 +60,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - Couldn't find Cyclic Sort
 - [X] https://leetcode.com/problems/missing-number/ (Blind)
 - [X] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-- [ ] https://leetcode.com/problems/find-the-duplicate-number/
+- [X] https://leetcode.com/problems/find-the-duplicate-number/
 - [X] https://leetcode.com/problems/find-all-duplicates-in-an-array/
 - [ ] https://leetcode.com/problems/set-mismatch/
 - [ ] https://leetcode.com/problems/first-missing-positive/
