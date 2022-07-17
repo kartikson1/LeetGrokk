@@ -62,7 +62,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - [X] https://leetcode.com/problems/find-the-duplicate-number/
 - [X] https://leetcode.com/problems/find-all-duplicates-in-an-array/
-- [ ] https://leetcode.com/problems/set-mismatch/
+- [X] https://leetcode.com/problems/set-mismatch/
 - [ ] https://leetcode.com/problems/first-missing-positive/
 - [ ] https://leetcode.com/problems/kth-missing-positive-number/
 
