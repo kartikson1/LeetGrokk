@@ -11,7 +11,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Sliding Window
 
-- [ ] https://leetcode.com/problems/maximum-subarray/  (Blind)
+- [X] https://leetcode.com/problems/maximum-subarray/  (Blind)
 - [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
